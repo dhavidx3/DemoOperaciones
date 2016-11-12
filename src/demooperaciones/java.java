@@ -93,6 +93,8 @@ public class java extends javax.swing.JFrame {
 
     private void txtNumeroBActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtNumeroBActionPerformed
         // TODO add your handling code here:
+        //lkdjsaldkjaslkjdsalkjslkjdsajdsajdsalkj
+        //jdsjjajajajshdgquyqwetqiwueiquhdlkszjnc,amnsd
     }//GEN-LAST:event_txtNumeroBActionPerformed
 
     private void btnSumarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSumarActionPerformed
